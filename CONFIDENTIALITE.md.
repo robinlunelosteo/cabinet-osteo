@@ -1,0 +1,21 @@
+# Règles de confidentialité — Cabinéo Courrier
+
+Cabinéo est un logiciel de gestion de cabinet d'ostéopathie à usage personnel. Il fonctionne sur l'ordinateur de son utilisateur. « Cabinéo Courrier » est une fonction facultative de ce logiciel qui se connecte à la boîte Gmail de son utilisateur, avec son autorisation.
+
+## Données consultées
+Avec l'autorisation de l'utilisateur, Cabinéo Courrier peut lire les messages de sa boîte Gmail, les marquer comme lus et envoyer des réponses que l'utilisateur a relues et validées lui-même.
+
+## Utilisation
+Les messages sont lus uniquement pour être triés et pour préparer des brouillons de réponse. Ce traitement est réalisé sur l'ordinateur de l'utilisateur, avec un modèle d'intelligence artificielle local. Aucun message n'est envoyé à un service d'intelligence artificielle externe.
+
+## Conservation
+Le contenu des messages n'est pas copié ni conservé par le logiciel. Seuls sont gardés, chiffrés sur l'ordinateur de l'utilisateur : les identifiants des messages, leur état de traitement, un court résumé et un journal des envois (date, destinataire, objet). L'autorisation d'accès à Gmail est elle aussi stockée chiffrée sur cet ordinateur.
+
+## Partage
+Aucune donnée n'est collectée par le développeur, vendue, partagée ou transmise à un tiers. Les seules communications ont lieu entre l'ordinateur de l'utilisateur et les serveurs de Google (Gmail).
+
+## Suppression et retrait de l'accès
+L'utilisateur peut retirer l'accès à tout moment depuis son compte Google (https://myaccount.google.com/permissions) ou en désactivant l'extension dans Cabinéo, ce qui efface toutes les données liées au courrier.
+
+## Contact
+Robin Lunel — robinlunel@live.fr
